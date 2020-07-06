@@ -1,0 +1,47 @@
+body{
+  text-align: center;
+background-color: black;
+    font-family:monospace;
+}
+.brand{
+  display:inline;
+  color:white;
+  font-size:14px;
+font-family:Candara;
+position:fixed;
+right:0;
+left:40px;
+top:260px;
+  letter-spacing: 12px;
+}
+hr{
+border-style:none;
+border-top-style:solid;
+border-color: white;
+border-width: 2px;
+width: 90%;
+position:fixed;
+left:50px;
+top:300px;
+}
+.logom{
+  display: block;
+position:fixed;
+left:250px;
+
+}
+.you{
+  position: fixed;
+  right:145px;
+  top:210px;
+}
+.ins{
+  position: fixed;
+  right:82px;
+  top:206px;
+}
+.fb{
+  position: fixed;
+  right:50px;
+  top:210px;
+}
